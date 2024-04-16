@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:net_ninja_course/data/dummy_data.dart';
 import 'package:net_ninja_course/models/meal.dart';
 import 'package:net_ninja_course/providers/meals_provider.dart';
 import 'package:net_ninja_course/screens/categories.dart';
